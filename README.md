@@ -4,8 +4,9 @@ Wine Quality Prediction Using Machine Learning
 - This project focuses on predicting the quality of wine based on various chemical and physical features using Machine Learning (ML) models. The Wine Quality Dataset, which is freely available on the internet, contains fundamental attributes that influence a wine’s quality, such as acidity, alcohol content, density, pH, and residual sugar.
 - The primary objective of this project is to analyze the dataset, perform exploratory data analysis (EDA), preprocess the data, and build multiple machine learning models to predict wine quality efficiently. By implementing advanced algorithms like XGBoost, we aim to achieve high accuracy in predictions.
 
-📌 Libraries Used
-Several essential libraries are used in this project for data manipulation, visualization, preprocessing, and model development:
+📌 Libraries Used:
+
+ Several essential libraries are used in this project for data manipulation, visualization, preprocessing, and model development:
 
 - Pandas – A powerful library for handling and analyzing structured data, such as datasets in tabular form (CSV, Excel, SQL, etc.).
 - NumPy – Used for efficient array computations, mathematical operations, and numerical handling.
@@ -13,7 +14,8 @@ Several essential libraries are used in this project for data manipulation, visu
 - Scikit-Learn (Sklearn) – A comprehensive module containing data preprocessing tools, model training functions, evaluation metrics, and ML algorithms.
 - XGBoost (Extreme Gradient Boosting) – A high-performance gradient boosting algorithm that enhances accuracy and improves predictive performance.
 
-📌 Steps Involved in the Project
+📌 Steps Involved in the Project:
+
 1️⃣ Data Collection
 The Wine Quality Dataset is obtained from a publicly available source. It consists of multiple features that impact wine quality. Typically, the dataset contains:
 
